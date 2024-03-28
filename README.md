@@ -1,5 +1,4 @@
 # SuperStore-Analysis
-# Superstore Dataset Analysis
 
 ## Overview
 
